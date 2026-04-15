@@ -35,6 +35,7 @@ The website is structured into several specialized sections to ensure a great us
     ├── gallery.html    
     ├── help.html       
     └── contact.html
+```
 
 ## How to Run
 
@@ -43,6 +44,7 @@ The website is structured into several specialized sections to ensure a great us
 ```bash
 
 git clone https://github.com/soescomon/basic-html-page.git
+```
 
 2. Ensure the folder structure remains intact (specifically the images and css folders) to maintain link integrity.
 
